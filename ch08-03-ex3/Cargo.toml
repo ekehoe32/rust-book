@@ -1,0 +1,12 @@
+[package]
+name = "ch08-03-ex3"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+convert_case = "0.6.0"
+thiserror = "1.0.38"
+strum = "0.24"
+strum_macros = "0.24"
