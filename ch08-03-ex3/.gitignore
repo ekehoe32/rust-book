@@ -1,0 +1,32 @@
+# Cargo target directory
+target/
+
+# Rustup metadata
+.rustup/
+
+# IntelliJ Rust metadata
+.idea/
+
+# Visual Studio Code metadata
+.vscode/
+
+# Rust doc tests
+doc/
+
+# Rust test artifacts
+tests/target/
+
+# Rust compile artifacts
+target/debug/
+target/release/
+
+# Rust test output
+test_output/
+
+# IntelliJ Rust system files
+.idea/
+
+# IntelliJ Rust Plugin settings
+.idea/rust.xml
+.idea/runConfigurations/
+.idea/runConfigurations/rust.xml
